@@ -1,4 +1,4 @@
-package com.geekearte.creacional.prototype;
+package com.geekearte.creacional.prototype.ejemplo.producto;
 
 /**
  * Created by rodrigo on 6/10/16.

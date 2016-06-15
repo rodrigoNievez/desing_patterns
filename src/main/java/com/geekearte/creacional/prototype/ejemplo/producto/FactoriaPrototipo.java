@@ -1,4 +1,4 @@
-package com.geekearte.creacional.prototype;
+package com.geekearte.creacional.prototype.ejemplo.producto;
 
 import java.util.HashMap;
 
